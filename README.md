@@ -81,7 +81,7 @@ Bash
 * Whatsapp Settings -> Linked Device -> Scan the QR
 * Anyone can text you "healthbot" to your number in whatsapp -> the system replys **NOW YOUR WHATSAPP NUMBER ACTS AS CHATBOT**
 * Text "healthbot" in the chat to make The Bot alive
-* chatbot reply seamlessly 
+* Chatbot reply seamlessly 
 ## Step 5 – Access Services
 ASHA Dashboard: http://localhost:6000
 
